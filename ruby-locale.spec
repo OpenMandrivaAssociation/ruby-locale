@@ -6,7 +6,7 @@ Summary: Locale handling library
 Name: %{name}
 Version: %{version}
 Release: %{release}
-URL: http://gettext.rubyforge.org/
+URL: https://gettext.rubyforge.org/
 Source0: http://rubyforge.org/frs/download.php/57277/ruby-locale-2.0.4.tar.gz
 License: LGPL
 Group: Development/Ruby
